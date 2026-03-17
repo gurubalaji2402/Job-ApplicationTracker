@@ -5,7 +5,9 @@
  * Job Application Tracker API
  * OpenAPI spec version: 0.1.0
  */
+import type { JobStatus } from "./jobStatus";
 
-export interface HealthStatus {
-  status: string;
-}
+export type JobStatsByStatusItem = {
+  status: JobStatus;
+  count: number;
+};

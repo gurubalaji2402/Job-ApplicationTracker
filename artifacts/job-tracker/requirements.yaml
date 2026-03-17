@@ -1,0 +1,14 @@
+packages:
+  "recharts": "Dashboard analytics charts and data visualization"
+  "date-fns": "Human-readable date formatting"
+  "react-hook-form": "Form state management"
+  "@hookform/resolvers": "Zod validation resolver for forms"
+  "zod": "Schema validation"
+  "clsx": "Class utility"
+  "tailwind-merge": "Tailwind class merging utility"
+
+images: []
+
+notes:
+  - Using existing @workspace/api-client-react for TanStack Query hooks.
+  - Using CSS custom properties for a professional indigo/slate theme.
