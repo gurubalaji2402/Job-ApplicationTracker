@@ -1,6 +1,6 @@
 # Job Application Tracker
 
-A full-stack web application to manage and track your job applications — built using prompt engineering (vibe coding) with Replit Agent.
+A full-stack web application to manage and track your job applications — built using prompt engineering with Replit Agent.
 
 ## Features
 
